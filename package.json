@@ -1,11 +1,11 @@
 {
-  "name": "@pancakeswap-libs/pancake-swap-core",
-  "description": "🎛 Core contracts for the pancake protocol",
+  "name": "@astroswap-libs/astroswap-core",
+  "description": "🎛 Core contracts for the astro protocol",
   "version": "0.1.0",
-  "homepage": "https://pancakeswap.finance",
+  "homepage": "https://www.astroswap.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pancakeswap/pancake-swap-core.git"
+    "url": "https://github.com/astroswapapp/astroswap-core.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
